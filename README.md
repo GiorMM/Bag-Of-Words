@@ -1,4 +1,4 @@
-# Bags-Of-Words
+# Bag-Of-Words
 MATLAB implement of BOW
 
 # How to extract SIFT
