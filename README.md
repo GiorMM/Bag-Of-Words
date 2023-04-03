@@ -1,6 +1,9 @@
 # Bags-Of-Words
 MATLAB implement of BOW
 
+# How to extract SIFT
+open the ***Batch_SIFT_win32*** folder and set the batch_run.bat to your ***images*** folder, double click it after setting
+
 # How to use
 __run BoWmain.m__
 
