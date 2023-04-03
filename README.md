@@ -17,3 +17,4 @@ __run test.m__
 Ensure that your ***test folder*** exists and that the extracted ***.dsift*** file exists
 
 it will show you the top 4 similar images in the images database
+![image](https://github.com/GiorMM/Bag-Of-Words/blob/main/test_result.png)
