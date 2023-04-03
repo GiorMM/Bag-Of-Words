@@ -1,2 +1,16 @@
 # Bags-Of-Words
-matlab implement of BOW
+MATLAB implement of BOW
+
+# How to use
+__run BoWmain.m__
+
+Ensure that your ***images folder*** exists and that the customized file reading method is valid
+
+you will get the accuracy of BoW in two different distance, as well as the vision code and cluster center stuct 
+
+# How to test
+__run test.m__
+
+Ensure that your ***test folder*** exists and that the extracted ***.dsift*** file exists
+
+it will show you the top 4 similar images in the images database
